@@ -1,0 +1,58 @@
+{
+  "cohort": {
+    "human0": {
+      "bio": "What a wonderful bio. This is the best example bio ever. This will be replaced by a real bio once the responses get mapped from the Google Form. Let's all give a big cheer for those who already responded! Hooray!",
+      "picture": "./images/mitchell-proof.png",
+      "first": "Mitchell",
+      "github": "www.github.com/mitchellblom",
+      "last": "Blom",
+      "linkedin": "https://www.linkedin.com/in/mitchellblom",
+      "personal": "www.mitchellblom.com"
+    },
+    "human1": {
+      "bio": "What a wonderful bio. This is the best example bio ever. This will be replaced by a real bio once the responses get mapped from the Google Form. Let's all give a big cheer for those who already responded! Hooray!",
+      "picture": "./images/mitchell-proof.png",
+      "first": "Another",
+      "github": "www.github.com/mitchellblom",
+      "last": "Example",
+      "linkedin": "https://www.linkedin.com/in/mitchellblom",
+      "personal": "www.mitchellblom.com"
+    },
+    "human2": {
+      "bio": "What a wonderful bio. This is the best example bio ever. This will be replaced by a real bio once the responses get mapped from the Google Form. Let's all give a big cheer for those who already responded! Hooray!",
+      "picture": "./images/mitchell-proof.png",
+      "first": "Yetanother",
+      "github": "www.github.com/mitchellblom",
+      "last": "One",
+      "linkedin": "https://www.linkedin.com/in/mitchellblom",
+      "personal": "www.mitchellblom.com"
+    },
+    "human3": {
+      "bio": "What a wonderful bio. This is the best example bio ever. This will be replaced by a real bio once the responses get mapped from the Google Form. Let's all give a big cheer for those who already responded! Hooray!",
+      "picture": "./images/mitchell-proof.png",
+      "first": "Not",
+      "github": "www.github.com/mitchellblom",
+      "last": "Real",
+      "linkedin": "https://www.linkedin.com/in/mitchellblom",
+      "personal": "www.mitchellblom.com"
+    },
+    "human4": {
+      "bio": "What a wonderful bio. This is the best example bio ever. This will be replaced by a real bio once the responses get mapped from the Google Form. Let's all give a big cheer for those who already responded! Hooray!",
+      "picture": "./images/mitchell-proof.png",
+      "first": "Awesome",
+      "github": "www.github.com/mitchellblom",
+      "last": "Opossum",
+      "linkedin": "https://www.linkedin.com/in/mitchellblom",
+      "personal": "www.mitchellblom.com"
+    },
+    "human5": {
+      "bio": "What a wonderful bio. This is the best example bio ever. This will be replaced by a real bio once the responses get mapped from the Google Form. Let's all give a big cheer for those who already responded! Hooray!",
+      "picture": "./images/mitchell-proof.png",
+      "first": "Xavier",
+      "github": "www.github.com/mitchellblom",
+      "last": "Ample",
+      "linkedin": "https://www.linkedin.com/in/mitchellblom",
+      "personal": "www.mitchellblom.com"
+    }
+  }
+}
