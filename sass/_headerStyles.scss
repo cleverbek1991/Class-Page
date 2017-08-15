@@ -1,3 +1,26 @@
-.headerPhoto{
-	
+#headerPhoto{
+	background: red url("../images/temporaryHeaderImage.jpg");
+	height: 100vh;
+	background-position: contain;
+
+	div {
+		margin: 0;
+	    position: absolute;
+	    background-color: rgba(black, .5);
+	    top: 50%;
+	    left: 50%;
+	    -ms-transform: translate(-50%, -50%);
+	    transform: translate(-50%, -50%);
+	    text-align: center;
+	    width: 100%;
+	    color: white;
+
+	    .headerCsharp{
+	    	height: 50px;
+	    }
+	}
+}
+
+.purpleButton{
+	background-color: $purple;
 }
