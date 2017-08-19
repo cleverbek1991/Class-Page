@@ -1,5 +1,5 @@
-[
-  {
+{
+  "human0": {
       "bio": "I am a Software Engineer looking for exciting opportunities in the Nashville area. Nashville has been home for the last 9 years and we love music city! I have 2 kids and enjoy writing and painting in spare time.",
       "first": "Aarti",
       "github": "https://github.com/jaisi",
@@ -7,7 +7,7 @@
       "linkedin": "https://www.linkedin.com/in/aarti-jaisinghani-2859248/",
       "picture": "link-goes-here"
   },
-  {
+  "human1": {
       "bio": "I’m a husband, drummer, and developer. I’ve spent years teaching music to students with a variety of ages and backgrounds, traveled the world playing drums, and recently found a passion for software development. I’m hungry to learn, humble and a team player.",
       "first": "Adam",
       "github": "https://github.com/adamreidelbach/",
@@ -16,7 +16,7 @@
       "personal": "http://www.adamreidelbach.com/",
       "picture": "link-goes-here"
   },
-  {
+  "human2": {
       "bio": "Been an entrepreneur all my life, managing several small businesses and ventures, eventually getting the opportunity to own and operate a small business of my own.  Through all of those experiences, I’ve had the opportunity to hone my leadership in middle and top management positions.  I’ve excelled by identifying opportunities that enhance the profitability for the business, the customer service experience, and the development of my team-mates and subordinates.  After selling my business, I took time to analyse my personal opportunities and the market of my future.  I looked at my love for computers and data, taking steps to train myself for the new, or should I say current, economy through self study and enrolling myself into Nashville Software School for an immersive coding experience to open opportunities.  \n",
       "first": "Andrew",
       "github": "https://github.com/arock83",
@@ -24,7 +24,7 @@
       "linkedin": "https://www.linkedin.com/in/andrew-rock/",
       "picture": "link-goes-here"
   },
-  {
+  "human3": {
       "bio": "I am a junior full-stack web developer with a focus on both front-end and back-end. My recent projects have been built in Angular and C# but I'm always open to new frameworks and believe that the technology should suit the project. I enjoy learning new languages, frameworks and technologies.",
       "first": "Azim",
       "github": "https://github.com/azimsodikov",
@@ -32,7 +32,7 @@
       "linkedin": "www.linkedin.com/in/azimsodikov",
       "picture": "link-goes-here"
   },
-  {
+  "human4": {
       "bio": "I came to NSS because I was craving something new. \n\nFor the last four years, I’ve consulted with financial services companies, writing compelling narratives and developing products to help them reach and retain clients. I had no outlet for my “left-brain” skills until I was tasked with overhauling the company website. From my first self-taught lines of HTML/CSS and JS, I knew I’d found a field that would challenge me. \n\nComing out of NSS, I’d like to begin my career as a full-stack developer, but I have interests in DevOps and game design. When I’m not coding, you’ll usually find me nose-deep in a sci-fi novel, concocting curries and confections in the kitchen, or taking my corgi for a long walk.",
       "first": "Ben",
       "github": "www.github.com/BSGreaves",
@@ -41,7 +41,7 @@
       "personal": "www.bsgreaves.com",
       "picture": "link-goes-here"
   },
-  {
+  "human5": {
       "bio": "Have you heard about Chaz?",
       "first": "Chaz",
       "github": "github.com/chazhenricks",
@@ -50,7 +50,7 @@
       "personal": "chazhenricks.com",
       "picture": "link-goes-here"
   },
-  {
+  "human6": {
       "bio": "During my second year of college at MDIST in 2011, I took a general education marketing and IT course where we were assigned the task of building a webpage. Thus began my love affair with coding. While I still enjoyed it, for the most part, I felt like something was missing. I wasn’t happy with the code I was creating. They were “simple” and “abstract” and that just wasn’t me. When I made the move to study coding at NSS as a full-stack developer that abstraction became obvious. It may not be for everyone, but some people are going to love it.",
       "first": "Dilshod",
       "github": "github.com/cleverbek1991",
@@ -58,7 +58,7 @@
       "linkedin": "www.linkedin.com/in/dilshodnur",
       "picture": "link-goes-here"
   },
-  {
+  "human7": {
       "bio": "Born and Raised in the Nashville area.  Graduate of MTSU with a degree in film and video production with a minor in film history.  Currently studying to become a software developer at Nashville Software School.",
       "first": "Dylan",
       "github": "https://github.com/jeffdylansmith",
@@ -67,7 +67,7 @@
       "personal": "N/A",
       "picture": "link-goes-here"
   },
-  {
+  "human8": {
       "bio": "Ed, a Nashville native, worked as a television director and owned a bakery before beginning his programming journey at NSS. He enjoys the outdoors and long road trips, especially when the destination involves waves.",
       "first": "Ed",
       "github": "https://github.com/edsad",
@@ -75,7 +75,7 @@
       "linkedin": "www.linkedin.com/in/edgar-j-sadler-jr-640a396",
       "picture": "link-goes-here"
   },
-  {
+  "human9": {
       "bio": "I am hungry for learning.\n\nI couldn’t do the Tolstoy-Chemistry-Fashion-Design-Biology-French major I wanted, so I settled for Art History while working as an animator and project lead in the Chemistry Department. When the chance to study Programming at Nashville Software School arose I jumped.\n\nTechnology creates an intersection for all of my interests, a central hub from which I can reach out and explore anything I care about or want to understand. It contains endless and ever-changing quantities of new things to learn.\n\nAnd with it I can help people. I created Tender Tummies, an app designed to facilitate parents managing complex allergy diseases. The prospect of making apps that can help, amuse, inspire, and promote change inspires me to continue learning.\n\nAs if I’d ever stop.",
       "first": "Eliza",
       "github": "https://github.com/elizawmeeks",
@@ -84,7 +84,7 @@
       "personal": "https://elizawmeeks.github.io/",
       "picture": "link-goes-here"
   },
-  {
+  "human10": {
       "bio": "I have a passion for learning and finding solutions to difficult problems. Dog mom. Video gamer. Avid snacker.",
       "first": "Jackie",
       "github": "https://github.com/jacklynknight08",
@@ -93,7 +93,7 @@
       "personal": "Will send later",
       "picture": "link-goes-here"
   },
-  {
+  "human11": {
       "bio": "BIO???",
       "first": "Jason",
       "github": "https://github.com/b0uncer52",
@@ -101,7 +101,7 @@
       "linkedin": "https://www.linkedin.com/in/jason-smith-918009a6/",
       "picture": "link-goes-here"
   },
-  {
+  "human12": {
       "bio": "Book reader. Dog lover. Problem solver. Fueled by caffeine, craft beer, punk rock and hip hop. Perpetually angered by and annoyed with the Boston Red Sox. ",
       "first": "Joey",
       "github": "https://github.com/joeybiotti",
@@ -110,7 +110,7 @@
       "personal": "www.jbiotti.com",
       "picture": "link-goes-here"
   },
-  {
+  "human13": {
       "bio": "Explorer. World Traveler. Mustache.\n\nI have an insatiable thirst for knowledge and experience which drives my desire to discover new peoples, cultures, food, books, and ideas. I love discovering things!\nSee above for reason to move into web and software development. ",
       "first": "Jordan",
       "github": "https://github.com/jordandhaenens",
@@ -118,7 +118,7 @@
       "linkedin": "www.linkedin.com/in/jordan-dhaenens",
       "picture": "link-goes-here"
   },
-  {
+  "human14": {
       "bio": "As an investigative professional for over ten years, I built a business focused on complex research and data analysis. Working in higher education as an accessibility advocate, I pushed for systemic change to increase access for all. The endless possibilities presented by the ever-changing field of software development allow me to incorporate my diverse experiences and interests while fulfilling my need for lifelong learning. \n\nAlso, dogs are my favorite kind of people.",
       "first": "Kathy",
       "github": "https://github.com/sleuthy",
@@ -126,7 +126,7 @@
       "linkedin": "https://www.linkedin.com/in/kathleenweisensel/",
       "picture": "link-goes-here"
   },
-  {
+  "human15": {
       "bio": "A Memphis native, originally I moved to Nashville to attend Tennessee State University. I love figuring out how things work and creating different projects from what I have learned.",
       "first": "Kevin",
       "github": "https://github.com/Kmille15",
@@ -134,7 +134,7 @@
       "linkedin": "https://www.linkedin.com/in/kevin-miller-1a51319a/",
       "picture": "link-goes-here"
   },
-  {
+  "human16": {
       "bio": "A Photographer, Urban Gardener, and Dog Lover, turning a career of 10 years in the commercial wedding and portrait business into Software Development. I was a corporate photography trainer for 4 years, I have honed my communication skills to adapt to working with many personality types and learning styles to be an effective communicator and educator. I have a passion for documentation and solving a problem from many angles.",
       "first": "Krissy",
       "github": "https://github.com/krissycaron",
@@ -143,7 +143,7 @@
       "personal": "www.kristincaron.com",
       "picture": "link-goes-here"
   },
-  {
+  "human17": {
       "bio": "I am a junior, full-stack web developer who is driven by a desire to learn and create. My primary background is as a musician, and when I read an article on how musicians often make good developers, I was very intrigued. The concepts of pattern-recognition, creativity, and constant learning are core to becoming both a great developer, and a great musician. \n\nThe nature of web development, with its vast ocean of information, requires constant learning and growth. This can seem intimidating or overwhelming to some, but for me, I am motivated by the fact that I can constantly learn, grow and in effect create something valuable for people.\n\nMy time at NSS has equipped me with many skills, and a mindset to step into the field of software development with confidence and excitement. ",
       "first": "Kyle",
       "github": "github.com/KyleKellums",
@@ -151,7 +151,7 @@
       "linkedin": "www.linkedin.com/in/kylekellums",
       "picture": "link-goes-here"
   },
-  {
+  "human18": {
       "bio": "Welcome to our class website! Here is a little bit about me and how I began exploring software development. I graduated from Miami University of Ohio in May of 2014 with my Bachelor's in Music Education.  After a few years of teaching and working in child care, I decided I was ready to make a change.  I began researching career options in tech and design. My research on careers eventually led me to wonder about coding, and if I could ever learn to do it.  I started taking online classes and practicing on my own.  After a couple months - I couldn't get enough! In April 2017, I enrolled in the 6 month full-time software development program at Nashville Software School.  The skills I am learning here and the projects I am working on can be found on my website or on my Github profile.",
       "first": "Madeline",
       "github": "https://github.com/madelineepower",
@@ -160,7 +160,7 @@
       "personal": "https://madelineepower.github.io/",
       "picture": "link-goes-here"
   },
-  {
+  "human19": {
       "bio": "Although I've only recently begun my career as software developer, it feels right. With each opening door, one has to close, and that happened with a hard decision to leave the fitness industry. An industry where I got my first professional job, my first promotion, and eventually started my own business. I started at Nashville Software School's Bootcamp in April 2017 and haven't looked back since. The problem solving is as challenging as it is rewarding. I'm looking forward to combining the skills I've acquired throughout my previous career with those I am actively gaining to become a valuable asset on a development team here in Nashville.",
       "first": "Matthew",
       "github": "https://github.com/augsismyburger",
@@ -169,7 +169,7 @@
       "personal": "https://augsismyburger.github.io/",
       "picture": "link-goes-here"
   },
-  {
+  "human20": {
       "bio": "Having literally travelled the world to find my vocation, I was drawn to the creative complexity of software development. Coding combines two of my greatest joys: continual learning and the opportunity to develop myself and those around me. Looking forward to contributing to an awesome team!",
       "first": "Mitchell",
       "github": "https://github.com/mitchellblom",
@@ -178,7 +178,7 @@
       "personal": "https://www.mitchellblom.com",
       "picture": "link-goes-here"
   },
-  {
+  "human21": {
       "bio": "\"Smart. Beautiful. Powerful. Enchanting. Witty. Charming. Sharp. Strong. Exemplary. Inspiring. Quick. Lovely. Fantastic. Amazing. Humble. These are just a few of the words that describe Ollie.\" - Anonymous\n\n\n(p.s. It was me. I'm Anonymous)",
       "first": "Ollie",
       "github": "GitHub.com/ollieOsh",
@@ -187,7 +187,7 @@
       "personal": "ollieosh.com",
       "picture": "link-goes-here"
   },
-  {
+  "human22": {
       "bio": "Bilingual Spanish Literature major with a background in medical office technical work, project management, and audio production.  Currently an apprentice software developer.",
       "first": "Peter",
       "github": "https://github.com/RillistikPete",
@@ -195,7 +195,7 @@
       "linkedin": "https://www.linkedin.com/in/peter-forrest-345b05143/",
       "picture": "link-goes-here"
   },
-  {
+  "human23": {
       "bio": "Apprentice Software Developer @NSS working on Microsoft.NET technologies, JavaScript and Angular JS. Love to code, fix the bugs and eager to learn new things. Enjoy gathering requirements and translating them in technical terminology. Enjoy working with data, specially with SQL.",
       "first": "Preeti",
       "github": "https://github.com/settings/profile",
@@ -204,7 +204,7 @@
       "personal": "https://preetikrp.github.io/Mywebsite/",
       "picture": "link-goes-here"
   },
-  {
+  "human24": {
       "bio": "I am from Lexington Kentucky, but I grew up in Cynthiana Kentucky which is the hometown of The Walking Dead.  I studied computer science in college and web design at ITT Tech (at the same time that went out of business).  ",
       "first": "Ryan",
       "github": "https://github.com/therealrmac",
@@ -212,7 +212,7 @@
       "linkedin": "https://www.linkedin.com/in/ryan-mccarty-133166145/",
       "picture": "link-goes-here"
   },
-  {
+  "human25": {
       "bio": "I have  an extensive education in social work and am now applying those skills to work efficiently and cooperatively in software development.  I love this field and can’t wait to work with an amazing team to grow my knowledge base.",
       "first": "Tamela",
       "github": "https://github.com/tlerma83",
@@ -221,7 +221,7 @@
       "personal": "http://www.tamelalerma.com/",
       "picture": "link-goes-here"
   },
-  {
+  "human26": {
       "bio": "\nFormer Air Force Air Traffic Controller who loves cycling, cooking, reading, writing, gaming, going to renaissance festivals and training Capoeria. ",
       "first": "Willie D. Pruitt",
       "github": "https://github.com/wpruitt",
@@ -229,4 +229,4 @@
       "linkedin": "www.linkedin.com/in/willie-pruitt",
       "picture": "link-goes-here"
   }
-]
+}
