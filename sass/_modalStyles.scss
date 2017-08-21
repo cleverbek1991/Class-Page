@@ -1,4 +1,28 @@
 
-.student-img {
-    width: 300px;
+#studentName {
+    text-align: center;
+}
+
+.modal-body {
+
+    img {
+        width: 300px;
+        float: left;
+        margin-right: 15px;
+    }
+
+    p {
+        text-align: justify;
+    }
+
+    @media (max-width: 550px) { 
+
+        img {
+            width: 300px;
+            float: none;
+            display: block;
+            margin: 0 auto;
+            padding-bottom: 15px;
+        }
+    }
 }
