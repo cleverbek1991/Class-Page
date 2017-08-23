@@ -14,18 +14,11 @@ let buildCards = () => {
 		let c = 0;
 		for (var thing in promiseData){
 			c++;
-			// if (c%3 === 0){
-			// 	htmlString += `</div>
-			// 					<div class="row">
-			// 					<div class="col-md-4">
-			// 						<img class="bioPic" src="../${promiseData[thing].picture}">
-			// 					</div>`;
-			// } else {
-				console.log(promiseData[thing]);
-				htmlString += `<div class="col-md-4">
-									<img class="bioPic" src="../${promiseData[thing].picture}">
-									<h2>${promiseData[thing].first} ${promiseData[thing].last}</h2>
-								</div>`;
+			console.log(promiseData[thing]);
+			htmlString += `<div class="col-md-4">
+								<img class="bioPic" src="../${promiseData[thing].picture}">
+								<h2>${promiseData[thing].first} ${promiseData[thing].last}</h2>
+							</div>`;
 			}
 			htmlString += `</div></div>`;
 			console.log("string");

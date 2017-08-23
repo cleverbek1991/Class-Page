@@ -1,10 +1,17 @@
+
 $purple: #39008f;
 $grey: #d9d9d9;
 $gray: #d9d9d9;
 
 @import 'headerStyles';
+@import 'modalStyles';
 
 .bioPic {
 	height: 300px;
 	margin: auto;
+}
+
+
+.devIcons {
+	height: 250px;
 }
