@@ -15,6 +15,17 @@ let buildCards = () => {
 			htmlString += `<div class="col-md-4">
 								<img class="bioPic" src="../${promiseData[thing].picture}">
 								<h2>${promiseData[thing].first} ${promiseData[thing].last}</h2>
+								<div class="row">
+									<a target="_blank" href="${promiseData[thing].linkedin}">
+										<img class="linkPics" src="../images/linkedinLink.svg">
+									</a>
+									<a target="_blank" href="${promiseData[thing].personal}">
+										<img class="linkPics" src="../images/personalSiteLink.svg">
+									</a>
+									<a target="_blank" href="${promiseData[thing].github}">
+										<img class="linkPics" src="../images/gitHubLink.svg">
+									</a>
+								</div>
 							</div>`;
 			}
 			htmlString += `</div></div>`;
