@@ -6,6 +6,9 @@ $gray: #d9d9d9;
 @import 'headerStyles';
 @import 'modalStyles';
 
+body {
+	background-color: $grey;
+}
 .bioPic {
 	height: 300px;
 	margin: auto;
