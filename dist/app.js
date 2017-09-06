@@ -29,7 +29,7 @@ let buildCards = () => {
                                      <h4 class="modal-title" id="myModalLabel"><div id="studentName">${promiseData[thing].first} ${promiseData[thing].last}</div></h4> 
                                   </div>
                                   <div class="modal-body">
-                                    <img src="images/default-image.png">
+                                    <img src=${promiseData[thing].fun}>
                                     <div id="studentBio">${promiseData[thing].bio}</div>
                                     <a href class="bioLinks">${promiseData[thing].github}</a><br>
                                     <a href class="bioLinks">${promiseData[thing].linkedin}</a><br>

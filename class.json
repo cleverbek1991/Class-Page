@@ -6,10 +6,11 @@
       "github": "https://github.com/jaisi",
       "last": "Jaisinghani",
       "linkedin": "https://www.linkedin.com/in/aarti-jaisinghani-2859248/",
+      "personal": "",
       "picture": "images/aarti_pro.jpg"
   },
   "human1": {
-      "bio": "My introduction to programming started out maintaining the website for my high school’s marching band. I learned the basics of HTML/CSS by viewing the source on websites that I enjoyed and tried to recreate them myself. I continued to build websites over the next few years for various bands I played in as a kid, and just for fun! After over ten years of playing and teaching drums, I wanted to start to build a career that would allow me to be home more frequently and grow in a new way. I started to think about what things excited me outside of playing drums, and programming jump out very quickly. I love the ability to create something that others can use and enjoy. As a drummer (in certain musical situations), you're not always making something new; sometimes you just have to learn the part someone else composed. However, in programming, it feels great to create something new almost every single day. I can express my creativity in new ways I’ve often felt like I was missing out on. It’s exciting to share what I’ve created with others and see how they react. It’s a unique experience and something I am excited to continue to build upon.",
+      "bio": "After over ten years of playing and teaching drums, I wanted to start to build a career that would allow me to be home more frequently and grow in a new way. I started to think about things I used to do for fun as a kid, and building websites quickly topped the list. I love the ability to create something that others can use and enjoy. As a drummer (in certain musical situations), you're not always making something new; sometimes you just have to learn the part someone else composed. However, in programming, it feels great to create something new almost every single day. I can express my creativity in new ways I’ve often felt like I was missing out on. It’s exciting to share what I’ve created with others and see how they react. It’s a unique experience and something I am excited to continue to build upon.",
       "first": "Adam",
       "fun": "images/adam_fun.jpg",
       "github": "https://github.com/adamreidelbach/",
@@ -25,6 +26,7 @@
       "github": "https://github.com/arock83",
       "last": "Rock",
       "linkedin": "https://www.linkedin.com/in/andrew-rock/",
+      "personal": "",
       "picture": "images/andy_pro.jpg"
   },
   "human3": {
@@ -34,6 +36,7 @@
       "github": "https://github.com/azimsodikov",
       "last": "Sodikov",
       "linkedin": "www.linkedin.com/in/azimsodikov",
+      "personal": "",
       "picture": "images/azim_pro.jpg"
   },
   "human4": {
@@ -63,6 +66,7 @@
       "github": "github.com/cleverbek1991",
       "last": "Nurmamatov",
       "linkedin": "www.linkedin.com/in/dilshodnur",
+      "personal": "",
       "picture": "images/dilshod_pro.jpg"
   },
   "human7": {
@@ -72,7 +76,7 @@
       "github": "https://github.com/jeffdylansmith",
       "last": "Smith",
       "linkedin": "https://www.linkedin.com/in/dylansmithvideo/",
-      "personal": "N/A",
+      "personal": "",
       "picture": "images/dylan_pro.jpg"
   },
   "human8": {
@@ -82,6 +86,7 @@
       "github": "https://github.com/edsad",
       "last": "Sadler",
       "linkedin": "www.linkedin.com/in/edgar-j-sadler-jr-640a396",
+      "personal": "",
       "picture": "images/ed_pro.jpg"
   },
   "human9": {
@@ -111,6 +116,7 @@
       "github": "https://github.com/b0uncer52",
       "last": "Smith",
       "linkedin": "https://www.linkedin.com/in/jason-smith-918009a6/",
+      "personal": "",
       "picture": "images/jason_pro.jpg"
   },
   "human12": {
@@ -130,6 +136,7 @@
       "github": "https://github.com/jordandhaenens",
       "last": "Dhaenens",
       "linkedin": "www.linkedin.com/in/jordan-dhaenens",
+      "personal": "",
       "picture": "images/jordan_pro.jpg"
   },
   "human14": {
@@ -139,6 +146,7 @@
       "github": "https://github.com/sleuthy",
       "last": "Weisensel",
       "linkedin": "https://www.linkedin.com/in/kathleenweisensel/",
+      "personal": "",
       "picture": "images/kathy_pro.jpg"
   },
   "human15": {
@@ -148,6 +156,7 @@
       "github": "https://github.com/Kmille15",
       "last": "Miller",
       "linkedin": "https://www.linkedin.com/in/kevin-miller-1a51319a/",
+      "personal": "",
       "picture": "images/kevin_pro.jpg"
   },
   "human16": {
@@ -167,6 +176,7 @@
       "github": "github.com/KyleKellums",
       "last": "Kellums",
       "linkedin": "www.linkedin.com/in/kylekellums",
+      "personal": "",
       "picture": "images/kyle_pro.jpg"
   },
   "human18": {
@@ -216,6 +226,7 @@
       "github": "https://github.com/RillistikPete",
       "last": "Forrest",
       "linkedin": "https://www.linkedin.com/in/peter-forrest-345b05143/",
+      "personal": "",
       "picture": "images/pete_pro.jpg"
   },
   "human23": {
@@ -235,6 +246,7 @@
       "github": "https://github.com/therealrmac",
       "last": "McCarty",
       "linkedin": "https://www.linkedin.com/in/ryan-mccarty-133166145/",
+      "personal": "",
       "picture": "images/ryan_pro.jpg"
   },
   "human25": {
@@ -254,6 +266,7 @@
       "github": "https://github.com/wpruitt",
       "last": " D. Pruitt Jr.",
       "linkedin": "www.linkedin.com/in/willie-pruitt",
+      "personal": "",
       "picture": "images/willie_pro.jpg"
   }
 }
