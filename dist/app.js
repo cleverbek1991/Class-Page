@@ -9,12 +9,10 @@ let buildCards = () => {
 	let data;
 	bios.getBios()
 	.then(promiseData => {
-		console.log(promiseData);
 		let htmlString= `<div class="container"><div class="row">`;
 		let c = 0;
 		for (var thing in promiseData){
 			c++;
-			console.log(promiseData[thing]);
             htmlString += `<div class="col-md-4">
                                 <div data-toggle="modal" data-target="#bioModal${promiseData[thing].first}">
                                     <img class="bioPic" src="../${promiseData[thing].picture}">
@@ -31,9 +29,9 @@ let buildCards = () => {
                                   <div class="modal-body">
                                     <img src=${promiseData[thing].fun}>
                                     <div id="studentBio">${promiseData[thing].bio}</div>
-                                    <a href class="bioLinks">${promiseData[thing].github}</a><br>
-                                    <a href class="bioLinks">${promiseData[thing].linkedin}</a><br>
-                                    <a href class="bioLinks">${promiseData[thing].personal}</a>
+                                    <a href="${promiseData[thing].github}" class="bioLinks" target="_blank">GitHub</a><br>
+                                    <a href="${promiseData[thing].linkedin}" class="bioLinks" target="_blank">LinkedIn</a><br>
+                                    <a href="${promiseData[thing].personal}" class="bioLinks" target="_blank">Personal Website</a>
                                   </div>
                                   <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -41,26 +39,14 @@ let buildCards = () => {
                                 </div>
                               </div>
                             </div>`;
-			/*htmlString += `<div class="col-md-4">
-								<img class="bioPic" src="../${promiseData[thing].picture}">
-								<h2>${promiseData[thing].first} ${promiseData[thing].last}</h2>
-								<div class="row">
-									<a target="_blank" href="${promiseData[thing].linkedin}">
-										<img class="linkPics" src="../images/linkedinLink.svg">
-									</a>
-									<a target="_blank" href="${promiseData[thing].personal}">
-										<img class="linkPics" src="../images/personalSiteLink.svg">
-									</a>
-									<a target="_blank" href="${promiseData[thing].github}">
-										<img class="linkPics" src="../images/gitHubLink.svg">
-									</a>
-								</div>
-							</div>`;*/
 			}
 			htmlString += `</div></div>`;
-			console.log("string");
-			console.log("htmlString", htmlString);
 			$("#cards").append(htmlString);
+			$("a").each(function ()
+			{
+				 $(this).trigger('click');//for clicking element
+				 var href = $(this).attr("href");
+			});
 		});
 };
 
