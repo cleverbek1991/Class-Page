@@ -6,10 +6,11 @@
       "github": "https://github.com/jaisi",
       "last": "Jaisinghani",
       "linkedin": "https://www.linkedin.com/in/aarti-jaisinghani-2859248/",
+      "personal": "",
       "picture": "images/aarti_pro.jpg"
   },
   "human1": {
-      "bio": "I’m a husband, drummer, and developer. I’ve spent years teaching music to students with a variety of ages and backgrounds, traveled the world playing drums, and recently found a passion for software development. I’m hungry to learn, humble and a team player.",
+      "bio": "After over ten years of playing and teaching drums, I wanted to start to build a career that would allow me to be home more frequently and grow in a new way. I started to think about things I used to do for fun as a kid, and building websites quickly topped the list. I love the ability to create something that others can use and enjoy. As a drummer (in certain musical situations), you're not always making something new; sometimes you just have to learn the part someone else composed. However, in programming, it feels great to create something new almost every single day. I can express my creativity in new ways I’ve often felt like I was missing out on. It’s exciting to share what I’ve created with others and see how they react. It’s a unique experience and something I am excited to continue to build upon.",
       "first": "Adam",
       "fun": "images/adam_fun.jpg",
       "github": "https://github.com/adamreidelbach/",
@@ -25,6 +26,7 @@
       "github": "https://github.com/arock83",
       "last": "Rock",
       "linkedin": "https://www.linkedin.com/in/andrew-rock/",
+      "personal": "",
       "picture": "images/andy_pro.jpg"
   },
   "human3": {
@@ -33,36 +35,38 @@
       "fun": "images/azim_fun.jpg",
       "github": "https://github.com/azimsodikov",
       "last": "Sodikov",
-      "linkedin": "www.linkedin.com/in/azimsodikov",
+      "linkedin": "https://www.linkedin.com/in/azimsodikov",
+      "personal": "",
       "picture": "images/azim_pro.jpg"
   },
   "human4": {
       "bio": "I came to NSS because I was craving something new. \n\nFor the last four years, I’ve consulted with financial services companies, writing compelling narratives and developing products to help them reach and retain clients. I had no outlet for my “left-brain” skills until I was tasked with overhauling the company website. From my first self-taught lines of HTML/CSS and JS, I knew I’d found a field that would challenge me. \n\nComing out of NSS, I’d like to begin my career as a full-stack developer, but I have interests in DevOps and game design. When I’m not coding, you’ll usually find me nose-deep in a sci-fi novel, concocting curries and confections in the kitchen, or taking my corgi for a long walk.",
       "first": "Ben",
       "fun": "images/ben_fun.jpg",
-      "github": "www.github.com/BSGreaves",
+      "github": "https://www.github.com/BSGreaves",
       "last": "Greaves",
-      "linkedin": "www.linkedin.com/in/ben-greaves",
-      "personal": "www.bsgreaves.com",
+      "linkedin": "https://www.linkedin.com/in/ben-greaves",
+      "personal": "http://www.bsgreaves.com",
       "picture": "images/ben_pro.jpg"
   },
   "human5": {
       "bio": "After spending several years in the music industry as a tour manager and FOH audio engineer, and later as the Head of Audio & Project Manager, I felt the need to expand my horizons. Technology has always been fascinating to me and after some years of learning on my own I decided to take the dive and enroll in Nashville Software School to further develop my skills as a software developer.",
       "first": "Chaz",
       "fun": "images/chaz_fun.jpg",
-      "github": "github.com/chazhenricks",
+      "github": "https://www.github.com/chazhenricks",
       "last": "Henricks",
-      "linkedin": "www.linkedin.com/in/chazhenricks/",
-      "personal": "chazhenricks.com",
+      "linkedin": "https://www.linkedin.com/in/chazhenricks/",
+      "personal": "http://www.chazhenricks.com",
       "picture": "images/chaz_pro.jpg"
   },
   "human6": {
       "bio": "During my second year of college at MDIST in 2011, I took a general education marketing and IT course where we were assigned the task of building a webpage. Thus began my love affair with coding. While I still enjoyed it, for the most part, I felt like something was missing. I wasn’t happy with the code I was creating. They were “simple” and “abstract” and that just wasn’t me. When I made the move to study coding at NSS as a full-stack developer that abstraction became obvious. It may not be for everyone, but some people are going to love it.",
       "first": "Dilshod",
       "fun": "images/dilshod_fun.jpg",
-      "github": "github.com/cleverbek1991",
+      "github": "https://github.com/cleverbek1991",
       "last": "Nurmamatov",
-      "linkedin": "www.linkedin.com/in/dilshodnur",
+      "linkedin": "https://www.linkedin.com/in/dilshodnur",
+      "personal": "",
       "picture": "images/dilshod_pro.jpg"
   },
   "human7": {
@@ -72,7 +76,7 @@
       "github": "https://github.com/jeffdylansmith",
       "last": "Smith",
       "linkedin": "https://www.linkedin.com/in/dylansmithvideo/",
-      "personal": "N/A",
+      "personal": "",
       "picture": "images/dylan_pro.jpg"
   },
   "human8": {
@@ -81,7 +85,8 @@
       "fun": "images/ed_fun.jpg",
       "github": "https://github.com/edsad",
       "last": "Sadler",
-      "linkedin": "www.linkedin.com/in/edgar-j-sadler-jr-640a396",
+      "linkedin": "https://www.linkedin.com/in/edgar-j-sadler-jr-640a396",
+      "personal": "",
       "picture": "images/ed_pro.jpg"
   },
   "human9": {
@@ -101,7 +106,7 @@
       "github": "https://github.com/jacklynknight08",
       "last": "Knight",
       "linkedin": "https://www.linkedin.com/in/jackie-knight/",
-      "personal": "www.jacklynknight.com",
+      "personal": "http://www.jacklynknight.com",
       "picture": "images/jackie_pro.jpg"
   },
   "human11": {
@@ -111,6 +116,7 @@
       "github": "https://github.com/b0uncer52",
       "last": "Smith",
       "linkedin": "https://www.linkedin.com/in/jason-smith-918009a6/",
+      "personal": "",
       "picture": "images/jason_pro.jpg"
   },
   "human12": {
@@ -120,7 +126,7 @@
       "github": "https://github.com/joeybiotti",
       "last": "Biotti",
       "linkedin": "https://www.linkedin.com/in/joey-biotti-294558145/",
-      "personal": "www.jbiotti.com",
+      "personal": "http://www.jbiotti.com",
       "picture": "images/joey_pro.jpg"
   },
   "human13": {
@@ -129,7 +135,8 @@
       "fun": "images/jordan_fun.jpg",      
       "github": "https://github.com/jordandhaenens",
       "last": "Dhaenens",
-      "linkedin": "www.linkedin.com/in/jordan-dhaenens",
+      "linkedin": "https://www.linkedin.com/in/jordan-dhaenens",
+      "personal": "",
       "picture": "images/jordan_pro.jpg"
   },
   "human14": {
@@ -139,6 +146,7 @@
       "github": "https://github.com/sleuthy",
       "last": "Weisensel",
       "linkedin": "https://www.linkedin.com/in/kathleenweisensel/",
+      "personal": "",
       "picture": "images/kathy_pro.jpg"
   },
   "human15": {
@@ -148,6 +156,7 @@
       "github": "https://github.com/Kmille15",
       "last": "Miller",
       "linkedin": "https://www.linkedin.com/in/kevin-miller-1a51319a/",
+      "personal": "",
       "picture": "images/kevin_pro.jpg"
   },
   "human16": {
@@ -157,16 +166,17 @@
       "github": "https://github.com/krissycaron",
       "last": "Caron",
       "linkedin": "https://www.linkedin.com/in/kristincaron/",
-      "personal": "www.kristincaron.com",
+      "personal": "http://www.kristincaron.com",
       "picture": "images/krissy_pro.jpg"
   },
   "human17": {
       "bio": "I am a junior, full-stack web developer who is driven by a desire to learn and create. My primary background is as a musician, and when I read an article on how musicians often make good developers, I was very intrigued. The concepts of pattern-recognition, creativity, and constant learning are core to becoming both a great developer, and a great musician. \n\nThe nature of web development, with its vast ocean of information, requires constant learning and growth. This can seem intimidating or overwhelming to some, but for me, I am motivated by the fact that I can constantly learn, grow and in effect create something valuable for people.\n\nMy time at NSS has equipped me with many skills, and a mindset to step into the field of software development with confidence and excitement. ",
       "first": "Kyle",
       "fun": "images/kyle_fun.jpg",
-      "github": "github.com/KyleKellums",
+      "github": "https://www.github.com/KyleKellums",
       "last": "Kellums",
-      "linkedin": "www.linkedin.com/in/kylekellums",
+      "linkedin": "https://www.linkedin.com/in/kylekellums",
+      "personal": "",
       "picture": "images/kyle_pro.jpg"
   },
   "human18": {
@@ -196,17 +206,17 @@
       "github": "https://github.com/mitchellblom",
       "last": "Blom",
       "linkedin": "https://www.linkedin.com/in/mitchellblom",
-      "personal": "https://www.mitchellblom.com",
+      "personal": "http://www.mitchellblom.com",
       "picture": "images/mitchell_pro.jpg"
   },
   "human21": {
       "bio": "\"Smart. Beautiful. Powerful. Enchanting. Witty. Charming. Sharp. Strong. Exemplary. Inspiring. Quick. Lovely. Fantastic. Amazing. Humble. These are just a few of the words that describe Ollie.\" - Anonymous\n\n\n(p.s. It was me. I'm Anonymous)",
       "first": "Ollie",
       "fun": "images/ollie_fun.jpg",
-      "github": "GitHub.com/ollieOsh",
+      "github": "https://www.github.com/ollieOsh",
       "last": "Osinusi",
-      "linkedin": "LinkedIn.com/in/ollieosh",
-      "personal": "ollieosh.com",
+      "linkedin": "https://www.linkedin.com/in/ollieosh",
+      "personal": "http://www.ollieosh.com",
       "picture": "images/ollie_pro.jpg"
   },
   "human22": {
@@ -216,13 +226,14 @@
       "github": "https://github.com/RillistikPete",
       "last": "Forrest",
       "linkedin": "https://www.linkedin.com/in/peter-forrest-345b05143/",
+      "personal": "",
       "picture": "images/pete_pro.jpg"
   },
   "human23": {
       "bio": "Apprentice Software Developer @NSS working on Microsoft.NET technologies, JavaScript and Angular JS. Love to code, fix the bugs and eager to learn new things. Enjoy gathering requirements and translating them in technical terminology. Enjoy working with data, specially with SQL.",
       "first": "Preeti",
       "fun": "images/preeti_fun.jpg",
-      "github": "https://github.com/settings/profile",
+      "github": "https://github.com/preetikrp",
       "last": "Pathak",
       "linkedin": "https://www.linkedin.com/in/preetipathak/",
       "personal": "https://preetikrp.github.io/Mywebsite/",
@@ -235,6 +246,7 @@
       "github": "https://github.com/therealrmac",
       "last": "McCarty",
       "linkedin": "https://www.linkedin.com/in/ryan-mccarty-133166145/",
+      "personal": "",
       "picture": "images/ryan_pro.jpg"
   },
   "human25": {
@@ -249,11 +261,12 @@
   },
   "human26": {
       "bio": "\nFormer Air Force Air Traffic Controller who loves cycling, cooking, reading, writing, gaming, going to renaissance festivals and training Capoeria. ",
-      "first": "Willie D.",
+      "first": "Willie",
       "fun": "images/willie_fun.jpg",
       "github": "https://github.com/wpruitt",
-      "last": "Pruitt Jr.",
-      "linkedin": "www.linkedin.com/in/willie-pruitt",
+      "last": " D. Pruitt Jr.",
+      "linkedin": "https://www.linkedin.com/in/willie-pruitt",
+      "personal": "",
       "picture": "images/willie_pro.jpg"
   }
 }
