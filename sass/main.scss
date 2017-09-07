@@ -10,7 +10,6 @@ body {
 	background-color: $grey;
 }
 .bioPic {
-	height: 300px;
 	margin: auto;
 }
 
@@ -20,5 +19,63 @@ body {
 }
 
 .linkPics {
-	height: 50px;
+	height: 35px;
+	margin-right: 4px;
+	margin-left: 4px;
+}
+
+.bioLinkPics {
+	height: 40px;
+}
+
+.MyCard {
+	text-align: center;
+	cursor: pointer;
+	margin: 6%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.caption {
+	background-color: white;
+	padding-top: .6em;
+	padding-bottom: 1em;
+	h4 {
+		margin-bottom: .7em;
+		margin-top: .7em;
+	}
+}
+
+.card-name:hover {
+	text-decoration: underline;
+}
+
+#cards {
+	margin-top: 20px;
+}
+
+.modalBioLinks {
+	a {
+		display: inline-block;
+	}
+}
+.wrapper {
+	overflow: hidden;
+}
+#devIcons {
+	background-image: url("../images/iconImage.png");
+	background-repeat: repeat-x;
+  -webkit-animation: slide 30s linear infinite;
+  -moz-animation: slide 30s linear infinite;
+  animation: slide 30s linear infinite;
+	width: 4800px;
+	height: 130px;
+}
+
+@keyframes slide{
+  0%{
+    transform: translate3d(0, 0, 0);
+  }
+  100%{
+    transform: translate3d(-2400px, 0, 0);
+  }
 }

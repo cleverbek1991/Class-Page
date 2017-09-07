@@ -11,24 +11,31 @@ let buildCards = () => {
 		for (var thing in promiseData){
 			c++;
             htmlString += `<div class="col-md-4">
-                                <div data-toggle="modal" data-target="#bioModal${promiseData[thing].first}">
-                                    <img class="bioPic" src="../${promiseData[thing].picture}">
-                                    <h2>${promiseData[thing].first} ${promiseData[thing].last}</h2>
-                                </div>
+                                <div class="MyCard">
+	                                    <img data-toggle="modal" data-target="#bioModal${promiseData[thing].first}" class="bioPic" src="../${promiseData[thing].picture}" style="width: 100%">
+																			<div class="caption">
+																				<h4 class="card-name" data-toggle="modal" data-target="#bioModal${promiseData[thing].first}">${promiseData[thing].first} ${promiseData[thing].last}</h4>
+																					<a href="${promiseData[thing].linkedin}"><img class="linkPics" src="/images/linkedinLink.svg"></a>
+																					<a href="${promiseData[thing].personal}"><img class="linkPics" src="/images/personalSiteLink.svg"></a>
+																					<a href="${promiseData[thing].github}"><img class="linkPics" src="/images/gitHubLink.svg"></a>
+																			</div>
+																</div>
                             </div>
                             <div class="modal fade" id="bioModal${promiseData[thing].first}" tabindex="-1" role="dialog" aria-labelledby="bioModalLabel">
                               <div class="modal-dialog modal-lg" role="document">
                                 <div class="modal-content">
                                   <div class="modal-header">
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                                     <h4 class="modal-title" id="myModalLabel"><div id="studentName">${promiseData[thing].first} ${promiseData[thing].last}</div></h4> 
+                                     <h4 class="modal-title" id="myModalLabel"><div id="studentName">${promiseData[thing].first} ${promiseData[thing].last}</div></h4>
                                   </div>
                                   <div class="modal-body">
                                     <img src=${promiseData[thing].fun}>
                                     <div id="studentBio">${promiseData[thing].bio}</div>
-                                    <a href="${promiseData[thing].github}" class="bioLinks" target="_blank">GitHub</a><br>
-                                    <a href="${promiseData[thing].linkedin}" class="bioLinks" target="_blank">LinkedIn</a><br>
-                                    <a href="${promiseData[thing].personal}" class="bioLinks" target="_blank">Personal Website</a>
+																		<div class="row">
+		                                    <a href="${promiseData[thing].github}" class="bioLinks col-md-2" target="_blank"><img class="bioLinkPics" src="/images/gitHubLink.svg"></a><br>
+		                                    <a href="${promiseData[thing].linkedin}" class="bioLinks col-md-2" target="_blank"><img class="bioLinkPics" src="/images/linkedinLink.svg"></a><br>
+		                                    <a href="${promiseData[thing].personal}" class="bioLinks col-md-2" target="_blank"><img class="bioLinkPics" src="/images/personalSiteLink.svg"></a>
+																		</div>
                                   </div>
                                   <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
