@@ -1,13 +1,45 @@
 #headerPhoto{
-	background: url("../images/temporaryHeaderImage.jpg");
-	height: 100vh;
-	background-position: contain;
+	background: url("../images/group_pro.jpg");
+	height: 80vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center bottom;
+
+	h1 {
+		font-family: 'GlacialIndifferenceBold';
+	 text-transform: uppercase;
+   font-style: normal;
+	 font-size: 3.2em;
+	 letter-spacing: 5px;
+	}
+
+	.btn {
+		border-radius: 0;
+		padding: .75rem;
+	}
+	a {
+			color: white;
+			text-transform: uppercase;
+			font-size: .7em;
+			margin-bottom: -12px;
+	}
+
+	h6 {
+		letter-spacing: 2px;
+		margin-top: .7rem;
+	}
+
+	h4 {
+		font-weight: 400;
+		letter-spacing: 3px;
+		margin-bottom: 1rem;
+	}
 
 	div {
 		margin: 0;
 	    position: absolute;
 	    background-color: rgba(black, .5);
-	    top: 50%;
+	    top: 75%;
 	    left: 50%;
 	    -ms-transform: translate(-50%, -50%);
 	    transform: translate(-50%, -50%);
@@ -16,11 +48,15 @@
 	    color: white;
 
 	    .headerCsharp{
-	    	height: 50px;
+	    	height: 70px;
+				margin-top: -14px;
 	    }
 	}
 }
 
+#heading {
+	height: 100vh;
+}
 .purpleButton{
 	background-color: $purple;
 }
