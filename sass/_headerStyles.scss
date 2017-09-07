@@ -4,6 +4,10 @@
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center bottom;
+	animation-name: fadein;
+	animation-fill-mode: backwards;
+	animation-duration: .3s;
+	animation-delay: .2s;
 
 	h1 {
 		font-family: 'GlacialIndifferenceBold';
@@ -59,4 +63,9 @@
 }
 .purpleButton{
 	background-color: $purple;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
 }
