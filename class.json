@@ -1,12 +1,12 @@
 {
   "human0": {
-      "bio": "I am a Software Engineer looking for exciting opportunities in the Nashville area. Nashville has been home for the last 9 years and we love music city! I have 2 kids and enjoy writing and painting in spare time.",
+      "bio": "I am a Full Stack Software Engineer, who enjoys creating user friendly applications that facilitate the end user experience. I am originally from Mumbai, India. I moved with my husband and two kids to Nashville, TN about ten years back. We love it here and are proud to call Nashville our home. Nashville is the perfect mix of southern charm and artistic flair, and at the same time, it is fast emerging as a leading healthcare and technical hub.<br><br>I am passionate about delivering quality software, that is useful and at the same time user friendly. I am a stickler for details and revel in making sure that a quality end product is delivered. When I am not coding, I enjoy spending time with my family. I also enjoy reading, and have a passion for writing and painting. Creating clean and useful websites and applications fulfils my needs as an engineer and also takes care of my creative leanings.",
       "first": "Aarti",
       "fun": "images/aarti_fun.jpg",
       "github": "https://github.com/jaisi",
       "last": "Jaisinghani",
       "linkedin": "https://www.linkedin.com/in/aarti-jaisinghani-2859248/",
-      "personal": "",
+      "personal": "http://www.aartijaisinghani.com/",
       "picture": "images/aarti_pro.jpg"
   },
   "human1": {
@@ -130,7 +130,7 @@
       "picture": "images/joey_pro.jpg"
   },
   "human13": {
-      "bio": "Explorer. World Traveler. Mustache.\n\nI have an insatiable thirst for knowledge and experience which drives my desire to discover new peoples, cultures, food, books, and ideas. I love discovering things!\nSee above for reason to move into web and software development. ",
+      "bio": "I love learning, exploring, and building solutions for the problems I encounter in the many facets of life. Software development is both my profession and outlet for creative design and architecture, exploration, and continual learning.",
       "first": "Jordan",
       "fun": "images/jordan_fun.jpg",      
       "github": "https://github.com/jordandhaenens",

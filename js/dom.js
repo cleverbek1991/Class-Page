@@ -15,9 +15,11 @@ let buildCards = () => {
 	                                    <img data-toggle="modal" data-target="#bioModal${promiseData[thing].first}" class="bioPic" src="../${promiseData[thing].picture}" style="width: 100%">
 																			<div class="caption">
 																				<h4 class="card-name" data-toggle="modal" data-target="#bioModal${promiseData[thing].first}">${promiseData[thing].first} ${promiseData[thing].last}</h4>
-																					<a href="${promiseData[thing].linkedin}"><img class="linkPics" src="/images/linkedinLink.svg"></a>
-																					<a href="${promiseData[thing].personal}"><img class="linkPics" src="/images/personalSiteLink.svg"></a>
-																					<a href="${promiseData[thing].github}"><img class="linkPics" src="/images/gitHubLink.svg"></a>
+																					<a href="${promiseData[thing].linkedin}"><img class="linkPics" src="/images/linkedinLink.svg"></a>`;
+						if (promiseData[thing].personal !== ""){
+							htmlString += `<a href="${promiseData[thing].personal}"><img class="linkPics" src="/images/personalSiteLink.svg"></a>`;
+						}
+							htmlString +=	`<a href="${promiseData[thing].github}"><img class="linkPics" src="/images/gitHubLink.svg"></a>
 																			</div>
 																</div>
                             </div>
@@ -32,9 +34,11 @@ let buildCards = () => {
                                     <img src=${promiseData[thing].fun}>
                                     <div id="studentBio">${promiseData[thing].bio}</div>
 																		<div class="row">
-		                                    <a href="${promiseData[thing].github}" class="bioLinks col-md-2" target="_blank"><img class="bioLinkPics" src="/images/gitHubLink.svg"></a><br>
-		                                    <a href="${promiseData[thing].linkedin}" class="bioLinks col-md-2" target="_blank"><img class="bioLinkPics" src="/images/linkedinLink.svg"></a><br>
-		                                    <a href="${promiseData[thing].personal}" class="bioLinks col-md-2" target="_blank"><img class="bioLinkPics" src="/images/personalSiteLink.svg"></a>
+		                                    <a href="${promiseData[thing].linkedin}" class="bioLinks col-md-2" target="_blank"><img class="bioLinkPics" src="/images/linkedinLink.svg"></a><br>`;
+						if (promiseData[thing].personal !== ""){
+							htmlString += `<a href="${promiseData[thing].personal}"><img class="linkPics" src="/images/personalSiteLink.svg"></a>`;
+						}
+							htmlString +=	`<a href="${promiseData[thing].github}" class="bioLinks col-md-2" target="_blank"><img class="bioLinkPics" src="/images/gitHubLink.svg"></a>
 																		</div>
                                   </div>
                                   <div class="modal-footer">
