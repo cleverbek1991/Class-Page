@@ -16,7 +16,7 @@ let buildCards = () => {
 	                                    <img data-toggle="modal" data-target="#bioModal${promiseData[thing].first}" class="bioPic" src="${promiseData[thing].picture}" style="width: 100%">
 																			<div class="caption">
 																				<h4 class="card-name" data-toggle="modal" data-target="#bioModal${promiseData[thing].first}">${promiseData[thing].first} ${promiseData[thing].last}</h4>
-																					<a href="${promiseData[thing].linkedin}" target="_blank"><img class="linkPics" src="../images/linkedinLink.svg"></a>`;
+																					<a href="${promiseData[thing].linkedin}" target="_blank"><img class="linkPics" src="Class-Page/images/linkedinLink.svg"></a>`;
 						if (promiseData[thing].personal !== ""){
 							htmlString += `<a href="${promiseData[thing].personal}" target="_blank"><img class="linkPics" src="../images/personalSiteLink.svg"></a>`;
 						}
