@@ -1,0 +1,168 @@
+@import url("https://fonts.googleapis.com/css?family=Satisfy");
+#headerPhoto {
+  background: url("../images/group_pro.jpg");
+  height: 80vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  animation-name: fadein;
+  animation-fill-mode: backwards;
+  animation-duration: .3s;
+  animation-delay: .2s; }
+  #headerPhoto h1 {
+    font-family: 'GlacialIndifferenceBold';
+    text-transform: uppercase;
+    font-style: normal;
+    font-size: 3.2em;
+    letter-spacing: 5px; }
+  #headerPhoto .btn {
+    border-radius: 0;
+    padding: .75rem; }
+  #headerPhoto a {
+    color: white;
+    text-transform: uppercase;
+    font-size: .7em;
+    margin-bottom: -12px; }
+  #headerPhoto h6 {
+    letter-spacing: 2px;
+    margin-top: .7rem; }
+  #headerPhoto h4 {
+    font-weight: 400;
+    letter-spacing: 3px;
+    margin-bottom: 1rem; }
+  #headerPhoto div {
+    margin: 0;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    top: 75%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 100%;
+    color: white; }
+    #headerPhoto div .headerCsharp {
+      height: 70px;
+      margin-top: -14px; }
+
+#heading {
+  height: 100vh; }
+
+.purpleButton {
+  background-color: #39008f; }
+
+@keyframes fadein {
+  from {
+    opacity: 0; }
+  to {
+    opacity: 1; } }
+
+#studentName {
+  text-align: center; }
+
+.modal-body img {
+  width: 300px;
+  float: left;
+  margin-right: 15px; }
+
+.modal-body p {
+  text-align: justify; }
+
+.modal-body #studentBio {
+  margin-bottom: 25px; }
+
+@media (max-width: 550px) {
+  .modal-body img {
+    width: 300px;
+    float: none;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 15px; } }
+
+body {
+  background-color: #d9d9d9; }
+
+.bioPic {
+  margin: auto; }
+
+.devIcons {
+  height: 250px; }
+
+.linkPics {
+  height: 35px;
+  margin-right: 4px;
+  margin-left: 4px; }
+
+.bioLinkPics {
+  height: 40px;
+  width: 40px; }
+
+.MyCard {
+  text-align: center;
+  cursor: pointer;
+  margin: 6%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
+
+.caption {
+  background-color: white;
+  padding-top: .6em;
+  padding-bottom: 1em; }
+  .caption h4 {
+    margin-bottom: .7em;
+    margin-top: .7em; }
+
+.card-name:hover {
+  text-decoration: underline; }
+
+#cards {
+  margin-top: 20px; }
+
+.modalBioLinks a {
+  display: inline-block; }
+
+.wrapper {
+  overflow: hidden; }
+
+#devIcons {
+  background-image: url("../images/iconImage.png");
+  background-repeat: repeat-x;
+  -webkit-animation: slide 30s linear infinite;
+  -moz-animation: slide 30s linear infinite;
+  animation: slide 30s linear infinite;
+  width: 4800px;
+  height: 130px; }
+
+@keyframes slide {
+  0% {
+    transform: translate3d(0, 0, 0); }
+  100% {
+    transform: translate3d(-2400px, 0, 0); } }
+
+#thanks {
+  background-color: #282727;
+  color: white;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 30px; }
+  #thanks p {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: 80%;
+    margin: 0 auto; }
+
+.thanks-header {
+  font-family: "Satisfy", cursive;
+  font-size: 6em;
+  margin: 0; }
+
+.heading-div {
+  animation-name: fadein;
+  animation-fill-mode: backwards;
+  animation-duration: .9s;
+  animation-delay: .7s; }
+
+@keyframes fadein {
+  from {
+    opacity: 0; }
+  to {
+    opacity: 1; } }
