@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Satisfy");
 #headerPhoto {
   background: url("../images/group_pro.jpg");
-  height: 80vh;
+  height: 100vh;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center bottom;
@@ -130,7 +130,7 @@ body {
   -moz-animation: slide 30s linear infinite;
   animation: slide 30s linear infinite;
   width: 4800px;
-  height: 130px; }
+  height: 110px; }
 
 @keyframes slide {
   0% {
