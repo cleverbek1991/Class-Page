@@ -78,7 +78,7 @@ buildCards();
 let getBios = () => {
 	return new Promise( (resolve, reject) => {
 		$.ajax({
-			url: "../class.json"
+			url: "../Class-Page/class.json"
 		}).done(data => {
 			resolve(data);
 		});
