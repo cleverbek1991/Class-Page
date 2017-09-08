@@ -16,11 +16,11 @@ let buildCards = () => {
 	                                    <img data-toggle="modal" data-target="#bioModal${promiseData[thing].first}" class="bioPic" src="../${promiseData[thing].picture}" style="width: 100%">
 																			<div class="caption">
 																				<h4 class="card-name" data-toggle="modal" data-target="#bioModal${promiseData[thing].first}">${promiseData[thing].first} ${promiseData[thing].last}</h4>
-																					<a href="${promiseData[thing].linkedin}" target="_blank"><img class="linkPics" src="/images/linkedinLink.svg"></a>`;
+																					<a href="${promiseData[thing].linkedin}" target="_blank"><img class="linkPics" src="Class-Page/images/linkedinLink.svg"></a>`;
 						if (promiseData[thing].personal !== ""){
-							htmlString += `<a href="${promiseData[thing].personal}" target="_blank"><img class="linkPics" src="/images/personalSiteLink.svg"></a>`;
+							htmlString += `<a href="${promiseData[thing].personal}" target="_blank"><img class="linkPics" src="Class-Page/images/personalSiteLink.svg"></a>`;
 						}
-							htmlString +=	`<a href="${promiseData[thing].github}" target="_blank"><img class="linkPics" src="/images/gitHubLink.svg"></a>
+							htmlString +=	`<a href="${promiseData[thing].github}" target="_blank"><img class="linkPics" src="Class-Page/images/gitHubLink.svg"></a>
 																			</div>
 																</div>
                             </div>
@@ -42,13 +42,13 @@ let buildCards = () => {
 																					<div class="col-md-2"></div>
 																					<div class="col-md-2">
 			                                    <a href="${promiseData[thing].linkedin}" class="bioLinks col-md-2" target="_blank">
-			                                    <img class="bioLinkPics" style="width:40px;" src="/images/linkedinLink.svg">
+			                                    <img class="bioLinkPics" style="width:40px;" src="Class-Page/images/linkedinLink.svg">
 			                                    </a><br>
 			                                    </div>`;
 						if (promiseData[thing].personal !== ""){
-							htmlString += `<div class="col-md-2"><a href="${promiseData[thing].personal}" target="_blank"><img class="linkPics" style="width:40px; margin-top:25px" src="/images/personalSiteLink.svg"></a></div>`;
+							htmlString += `<div class="col-md-2"><a href="${promiseData[thing].personal}" target="_blank"><img class="linkPics" style="width:40px; margin-top:25px" src="Class-Page/images/personalSiteLink.svg"></a></div>`;
 						}
-							htmlString +=	`<div class="col-md-2"><a href="${promiseData[thing].github}" target="_blank" class="bioLinks col-md-2" target="_blank"><img class="bioLinkPics" style="width:40px;" src="/images/gitHubLink.svg"></a></div>
+							htmlString +=	`<div class="col-md-2"><a href="${promiseData[thing].github}" target="_blank" class="bioLinks col-md-2" target="_blank"><img class="bioLinkPics" style="width:40px;" src="Class-Page/images/gitHubLink.svg"></a></div>
 																				</div>
 																			</div>
 																		</div>
