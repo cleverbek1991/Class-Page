@@ -1,0 +1,272 @@
+{
+  "human0": {
+      "bio": "I am a Full Stack Software Engineer, who enjoys creating user friendly applications that facilitate the end user experience. I am originally from Mumbai, India. I moved with my husband and two kids to Nashville, TN about ten years back. We love it here and are proud to call Nashville our home. Nashville is the perfect mix of southern charm and artistic flair, and at the same time, it is fast emerging as a leading healthcare and technical hub.<br><br>I am passionate about delivering quality software, that is useful and at the same time user friendly. I am a stickler for details and revel in making sure that a quality end product is delivered. When I am not coding, I enjoy spending time with my family. I also enjoy reading, and have a passion for writing and painting. Creating clean and useful websites and applications fulfils my needs as an engineer and also takes care of my creative leanings.",
+      "first": "Aarti",
+      "fun": "images/aarti_fun.jpg",
+      "github": "https://github.com/jaisi",
+      "last": "Jaisinghani",
+      "linkedin": "https://www.linkedin.com/in/aarti-jaisinghani-2859248/",
+      "personal": "http://www.aartijaisinghani.com/",
+      "picture": "images/aarti_pro.jpg"
+  },
+  "human1": {
+      "bio": "After over ten years of playing and teaching drums, I wanted to start to build a career that would allow me to be home more frequently and grow in a new way. I started to think about things I used to do for fun as a kid, and building websites quickly topped the list. I love the ability to create something that others can use and enjoy. As a drummer (in certain musical situations), you're not always making something new; sometimes you just have to learn the part someone else composed. However, in programming, it feels great to create something new almost every single day. I can express my creativity in new ways I’ve often felt like I was missing out on. It’s exciting to share what I’ve created with others and see how they react. It’s a unique experience and something I am excited to continue to build upon.",
+      "first": "Adam",
+      "fun": "images/adam_fun.jpg",
+      "github": "https://github.com/adamreidelbach/",
+      "last": "Reidelbach",
+      "linkedin": "https://www.linkedin.com/in/adamreidelbach/",
+      "personal": "http://www.adamreidelbach.com/",
+      "picture": "images/adam_pro.jpg"
+  },
+  "human2": {
+      "bio": "Been an entrepreneur all my life, managing several small businesses and ventures, eventually getting the opportunity to own and operate a small business of my own.  Through all of those experiences, I’ve had the opportunity to hone my leadership in middle and top management positions.  I’ve excelled by identifying opportunities that enhance the profitability for the business, the customer service experience, and the development of my team-mates and subordinates.  After selling my business, I took time to analyse my personal opportunities and the market of my future.  I looked at my love for computers and data, taking steps to train myself for the new, or should I say current, economy through self study and enrolling myself into Nashville Software School for an immersive coding experience to open opportunities.  \n",
+      "first": "Andrew",
+      "fun": "images/andy_fun.jpg",
+      "github": "https://github.com/arock83",
+      "last": "Rock",
+      "linkedin": "https://www.linkedin.com/in/andrew-rock/",
+      "personal": "",
+      "picture": "images/andy_pro.jpg"
+  },
+  "human3": {
+      "bio": "I am a junior full-stack web developer with a focus on both front-end and back-end. My recent projects have been built in Angular and C# but I'm always open to new frameworks and believe that the technology should suit the project. I enjoy learning new languages, frameworks and technologies.",
+      "first": "Azim",
+      "fun": "images/azim_fun.jpg",
+      "github": "https://github.com/azimsodikov",
+      "last": "Sodikov",
+      "linkedin": "https://www.linkedin.com/in/azimsodikov",
+      "personal": "",
+      "picture": "images/azim_pro.jpg"
+  },
+  "human4": {
+      "bio": "I came to NSS because I was craving something new. \n\nFor the last four years, I’ve consulted with financial services companies, writing compelling narratives and developing products to help them reach and retain clients. I had no outlet for my “left-brain” skills until I was tasked with overhauling the company website. From my first self-taught lines of HTML/CSS and JS, I knew I’d found a field that would challenge me. \n\nComing out of NSS, I’d like to begin my career as a full-stack developer, but I have interests in DevOps and game design. When I’m not coding, you’ll usually find me nose-deep in a sci-fi novel, concocting curries and confections in the kitchen, or taking my corgi for a long walk.",
+      "first": "Ben",
+      "fun": "images/ben_fun.jpg",
+      "github": "https://www.github.com/BSGreaves",
+      "last": "Greaves",
+      "linkedin": "https://www.linkedin.com/in/ben-greaves",
+      "personal": "https://bsgreaves.github.io/portfolio/",
+      "picture": "images/ben_pro.jpg"
+  },
+  "human5": {
+      "bio": "After spending several years in the music industry as a tour manager and FOH audio engineer, and later as the Head of Audio & Project Manager, I felt the need to expand my horizons. Technology has always been fascinating to me and after some years of learning on my own I decided to take the dive and enroll in Nashville Software School to further develop my skills as a software developer.",
+      "first": "Chaz",
+      "fun": "images/chaz_fun.jpg",
+      "github": "https://www.github.com/chazhenricks",
+      "last": "Henricks",
+      "linkedin": "https://www.linkedin.com/in/chazhenricks/",
+      "personal": "http://www.chazhenricks.com",
+      "picture": "images/chaz_pro.jpg"
+  },
+  "human6": {
+      "bio": "During my second year of college at MDIST in 2011, I took a general education marketing and IT course where we were assigned the task of building a webpage. Thus began my love affair with coding. While I still enjoyed it, for the most part, I felt like something was missing. I wasn’t happy with the code I was creating. They were “simple” and “abstract” and that just wasn’t me. When I made the move to study coding at NSS as a full-stack developer that abstraction became obvious. It may not be for everyone, but some people are going to love it.",
+      "first": "Dilshod",
+      "fun": "images/dilshod_fun.jpg",
+      "github": "https://github.com/cleverbek1991",
+      "last": "Nurmamatov",
+      "linkedin": "https://www.linkedin.com/in/dilshodnur",
+      "personal": "",
+      "picture": "images/dilshod_pro.jpg"
+  },
+  "human7": {
+      "bio": "Born and Raised in the Nashville area.  Graduate of MTSU with a degree in film and video production with a minor in film history.  Currently studying to become a software developer at Nashville Software School.",
+      "first": "Dylan",
+      "fun": "images/dylan_fun.jpg",
+      "github": "https://github.com/jeffdylansmith",
+      "last": "Smith",
+      "linkedin": "https://www.linkedin.com/in/dylansmithvideo/",
+      "personal": "",
+      "picture": "images/dylan_pro.jpg"
+  },
+  "human8": {
+      "bio": "Ed, a Nashville native, worked as a television director and owned a bakery before beginning his programming journey at NSS. He enjoys the outdoors and long road trips, especially when the destination involves waves.",
+      "first": "Ed",
+      "fun": "images/ed_fun.jpg",
+      "github": "https://github.com/edsad",
+      "last": "Sadler",
+      "linkedin": "https://www.linkedin.com/in/edgar-j-sadler-jr-640a396",
+      "personal": "",
+      "picture": "images/ed_pro.jpg"
+  },
+  "human9": {
+      "bio": "I am hungry for learning.\n\nI couldn’t do the Tolstoy-Chemistry-Fashion-Design-Biology-French major I wanted, so I settled for Art History while working as an animator and project lead in the Chemistry Department. When the chance to study Programming at Nashville Software School arose I jumped.\n\nTechnology creates an intersection for all of my interests, a central hub from which I can reach out and explore anything I care about or want to understand. It contains endless and ever-changing quantities of new things to learn.\n\nAnd with it I can help people. I created Tender Tummies, an app designed to facilitate parents managing complex allergy diseases. The prospect of making apps that can help, amuse, inspire, and promote change inspires me to continue learning.\n\nAs if I’d ever stop.",
+      "first": "Eliza",
+      "fun": "images/eliza_fun.jpg",
+      "github": "https://github.com/elizawmeeks",
+      "last": "Meeks",
+      "linkedin": "https://www.linkedin.com/in/eliza-meeks/",
+      "personal": "https://elizawmeeks.github.io/",
+      "picture": "images/eliza_pro.jpg"
+  },
+  "human10": {
+      "bio": "I have a passion for learning and finding solutions to difficult problems. Dog mom. Video gamer. Avid snacker.",
+      "first": "Jackie",
+      "fun": "images/jackie_fun.jpg",
+      "github": "https://github.com/jacklynknight08",
+      "last": "Knight",
+      "linkedin": "https://www.linkedin.com/in/jackie-knight/",
+      "personal": "http://www.jacklynknight.com",
+      "picture": "images/jackie_pro.jpg"
+  },
+  "human11": {
+      "bio": "I challenge you to challenge me to a whiteboard challenge.",
+      "first": "Jason",
+      "fun": "images/jason_fun.jpg",
+      "github": "https://github.com/b0uncer52",
+      "last": "Smith",
+      "linkedin": "https://www.linkedin.com/in/jason-smith-918009a6/",
+      "personal": "",
+      "picture": "images/jason_pro.jpg"
+  },
+  "human12": {
+      "bio": "Book reader. Dog lover. Problem solver. Fueled by caffeine, craft beer, punk rock and hip hop. Perpetually angered by and annoyed with the Boston Red Sox. ",
+      "first": "Joey",
+      "fun": "images/joey_fun.jpg",      
+      "github": "https://github.com/joeybiotti",
+      "last": "Biotti",
+      "linkedin": "https://www.linkedin.com/in/joey-biotti-294558145/",
+      "personal": "http://www.jbiotti.com",
+      "picture": "images/joey_pro.jpg"
+  },
+  "human13": {
+      "bio": "I love learning, exploring, and building solutions for the problems I encounter in the many facets of life. Software development is both my profession and outlet for creative design and architecture, exploration, and continual learning.",
+      "first": "Jordan",
+      "fun": "images/jordan_fun.jpg",      
+      "github": "https://github.com/jordandhaenens",
+      "last": "Dhaenens",
+      "linkedin": "https://www.linkedin.com/in/jordan-dhaenens",
+      "personal": "",
+      "picture": "images/jordan_pro.jpg"
+  },
+  "human14": {
+      "bio": "As an investigative professional for over ten years, I built a business focused on complex research and data analysis. Working in higher education as an accessibility advocate, I pushed for systemic change to increase access for all. The endless possibilities presented by the ever-changing field of software development allow me to incorporate my diverse experiences and interests while fulfilling my need for lifelong learning. \n\nAlso, dogs are my favorite kind of people.",
+      "first": "Kathy",
+      "fun": "images/kathy_fun.jpg",      
+      "github": "https://github.com/sleuthy",
+      "last": "Weisensel",
+      "linkedin": "https://www.linkedin.com/in/kathleenweisensel/",
+      "personal": "",
+      "picture": "images/kathy_pro.jpg"
+  },
+  "human15": {
+      "bio": "A Memphis native, originally I moved to Nashville to attend Tennessee State University. I love figuring out how things work and creating different projects from what I have learned.",
+      "first": "Kevin",
+      "fun": "images/kevin_fun.jpg",      
+      "github": "https://github.com/Kmille15",
+      "last": "Miller",
+      "linkedin": "https://www.linkedin.com/in/kevin-miller-1a51319a/",
+      "personal": "https://kmille15.github.io/MyWebsite/",
+      "picture": "images/kevin_pro.jpg"
+  },
+  "human16": {
+      "bio": "A Photographer, Urban Gardener, and Dog Lover, turning a career of 10 years in the commercial wedding and portrait business into Software Development. I was a corporate photography trainer for 4 years, I have honed my communication skills to adapt to working with many personality types and learning styles to be an effective communicator and educator. I have a passion for documentation and solving a problem from many angles.",
+      "first": "Krissy",
+      "fun": "images/krissy_fun.jpg",
+      "github": "https://github.com/krissycaron",
+      "last": "Caron",
+      "linkedin": "https://www.linkedin.com/in/kristincaron/",
+      "personal": "http://www.kristincaron.com",
+      "picture": "images/krissy_pro.jpg"
+  },
+  "human17": {
+      "bio": "I am a junior, full-stack web developer who is driven by a desire to learn and create. My primary background is as a musician, and when I read an article on how musicians often make good developers, I was very intrigued. The concepts of pattern-recognition, creativity, and constant learning are core to becoming both a great developer, and a great musician. \n\nThe nature of web development, with its vast ocean of information, requires constant learning and growth. This can seem intimidating or overwhelming to some, but for me, I am motivated by the fact that I can constantly learn, grow and in effect create something valuable for people.\n\nMy time at NSS has equipped me with many skills, and a mindset to step into the field of software development with confidence and excitement. ",
+      "first": "Kyle",
+      "fun": "images/kyle_fun.jpg",
+      "github": "https://www.github.com/KyleKellums",
+      "last": "Kellums",
+      "linkedin": "https://www.linkedin.com/in/kylekellums",
+      "personal": "",
+      "picture": "images/kyle_pro.jpg"
+  },
+  "human18": {
+      "bio": "Welcome to our class website! Here is a little bit about me and how I began exploring software development. I graduated from Miami University of Ohio in May of 2014 with my Bachelor's in Music Education.  After a few years of teaching and working in child care, I decided I was ready to make a change.  I began researching career options in tech and design. My research on careers eventually led me to wonder about coding, and if I could ever learn to do it.  I started taking online classes and practicing on my own.  After a couple months - I couldn't get enough! In April 2017, I enrolled in the 6 month full-time software development program at Nashville Software School.  The skills I am learning here and the projects I am working on can be found on my website or on my Github profile.",
+      "first": "Madeline",
+      "fun": "images/madeline_fun.jpg",
+      "github": "https://github.com/madelineepower",
+      "last": "Power",
+      "linkedin": "https://www.linkedin.com/in/madeline-power-8254b961/",
+      "personal": "https://madelineepower.github.io/",
+      "picture": "images/madeline_pro.jpg"
+  },
+  "human19": {
+      "bio": "Although I've only recently begun my career as software developer, it feels right. With each opening door, one has to close, and that happened with a hard decision to leave the fitness industry. An industry where I got my first professional job, my first promotion, and eventually started my own business. I started at Nashville Software School's Bootcamp in April 2017 and haven't looked back since. The problem solving is as challenging as it is rewarding. I'm looking forward to combining the skills I've acquired throughout my previous career with those I am actively gaining to become a valuable asset on a development team here in Nashville.",
+      "first": "Matthew",
+      "fun": "images/matt_fun.jpg",
+      "github": "https://github.com/augsismyburger",
+      "last": "Augsburger",
+      "linkedin": "https://www.linkedin.com/in/matthew-augsburger/",
+      "personal": "https://augsismyburger.github.io/",
+      "picture": "images/matt_pro.jpg"
+  },
+  "human20": {
+      "bio": "Having literally travelled the world to find my vocation, I was drawn to the creative complexity of software development. Coding combines two of my greatest joys: continual learning and the opportunity to develop myself and those around me. Looking forward to contributing to an awesome team!",
+      "first": "Mitchell",
+      "fun": "images/mitchell_fun.jpg",
+      "github": "https://github.com/mitchellblom",
+      "last": "Blom",
+      "linkedin": "https://www.linkedin.com/in/mitchellblom",
+      "personal": "http://www.mitchellblom.com",
+      "picture": "images/mitchell_pro.jpg"
+  },
+  "human21": {
+      "bio": "\"Smart. Beautiful. Powerful. Enchanting. Witty. Charming. Sharp. Strong. Exemplary. Inspiring. Quick. Lovely. Fantastic. Amazing. Humble. These are just a few of the words that describe Ollie.\" - Anonymous\n\n\n(p.s. It was me. I'm Anonymous)",
+      "first": "Ollie",
+      "fun": "images/ollie_fun.jpg",
+      "github": "https://www.github.com/ollieOsh",
+      "last": "Osinusi",
+      "linkedin": "https://www.linkedin.com/in/ollieosh",
+      "personal": "http://www.ollieosh.com",
+      "picture": "images/ollie_pro.jpg"
+  },
+  "human22": {
+      "bio": "Bilingual Spanish Literature major with a background in medical office technical work, project management, and audio production.  Currently an apprentice software developer.",
+      "first": "Peter",
+      "fun": "images/pete_fun.jpg",
+      "github": "https://github.com/RillistikPete",
+      "last": "Forrest",
+      "linkedin": "https://www.linkedin.com/in/peter-forrest-345b05143/",
+      "personal": "",
+      "picture": "images/pete_pro.jpg"
+  },
+  "human23": {
+      "bio": "Apprentice Software Developer @NSS working on Microsoft.NET technologies, JavaScript and Angular JS. Love to code, fix the bugs and eager to learn new things. Enjoy gathering requirements and translating them in technical terminology. Enjoy working with data, specially with SQL.",
+      "first": "Preeti",
+      "fun": "images/preeti_fun.jpg",
+      "github": "https://github.com/preetikrp",
+      "last": "Pathak",
+      "linkedin": "https://www.linkedin.com/in/preetipathak/",
+      "personal": "https://preetikrp.github.io/Mywebsite/",
+      "picture": "images/preeti_pro.jpg"
+  },
+  "human24": {
+      "bio": "I am from Lexington Kentucky, but I grew up in Cynthiana Kentucky which is the hometown of The Walking Dead.  I studied computer science in college and web design at ITT Tech (at the same time that went out of business).  ",
+      "first": "Ryan",
+      "fun": "images/ryan_fun.jpg",
+      "github": "https://github.com/therealrmac",
+      "last": "McCarty",
+      "linkedin": "https://www.linkedin.com/in/ryan-mccarty-133166145/",
+      "personal": "",
+      "picture": "images/ryan_pro.jpg"
+  },
+  "human25": {
+      "bio": "I have  an extensive education in social work and am now applying those skills to work efficiently and cooperatively in software development.  I love this field and can’t wait to work with an amazing team to grow my knowledge base.",
+      "first": "Tamela",
+      "fun": "images/tamela_fun.jpg",
+      "github": "https://github.com/tlerma83",
+      "last": "Lerma",
+      "linkedin": "https://www.linkedin.com/in/tamela-lerma-baa9a7b9/",
+      "personal": "http://www.tamelalerma.com/",
+      "picture": "images/tamela_pro.jpg"
+  },
+  "human26": {
+      "bio": "\nFormer Air Force Air Traffic Controller who loves cycling, cooking, reading, writing, gaming, going to renaissance festivals and training Capoeria. ",
+      "first": "Willie",
+      "fun": "images/willie_fun.jpg",
+      "github": "https://github.com/wpruitt",
+      "last": " D. Pruitt Jr.",
+      "linkedin": "https://www.linkedin.com/in/willie-pruitt",
+      "personal": "",
+      "picture": "images/willie_pro.jpg"
+  }
+}
